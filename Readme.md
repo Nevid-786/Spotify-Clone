@@ -51,29 +51,6 @@ spotify-clone/
 
 ---
 
-## ▶️ How to Run the Project
-
-⚠️ **Important:** This project uses `fetch()` to load songs, so it must be run on a local server.
-
-### Option 1: Using VS Code Live Server
-
-1. Open the project folder in VS Code
-2. Install **Live Server** extension
-3. Right‑click `index.html` → **Open with Live Server**
-
-### Option 2: Using Python Server
-
-```bash
-python -m http.server
-```
-
-Then open:
-
-```
-http://127.0.0.1:8000
-```
-
----
 
 ## 📱 Mobile Responsiveness
 
@@ -114,14 +91,11 @@ http://127.0.0.1:8000
 
 ## 📸 Screenshots
 
-*Add screenshots here*
+<img src="image.png">
 
 ---
-
-## 🙌 Author
-
 **Nevid**
-Frontend Developer | CS Student
+CS Student
 
 ---
 
